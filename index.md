@@ -11,6 +11,6 @@
 >
 > ## トピック一覧
 >
-> -  [Alternative Origin Stories of the Americas](https://loving-is-easy.github.io/Cultures/Alternative-Origin-Stories-of-the-Americas/resources.html) 
+> -  [Alternative Origin Stories of the Americas](https://loving-is-easy.github.io/Cultures/Alternative-Origin-Stories-of-the-Americas/resources-lists.html) 
 > -  (工事中)
 
