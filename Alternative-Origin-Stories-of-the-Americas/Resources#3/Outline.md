@@ -15,7 +15,7 @@ Finding an address on a map can be taken for granted in the age of GPS and smart
 
 Aaron Carapella, a self-taught mapmaker in Warner, Okla., has pinpointed the locations and original names of hundreds of American Indian nations before their first contact with Europeans.
 
-As a teenager, Carapella says he could never get his hands on a [continental U.S. map like this](http://static.squarespace.com/static/5075febfe4b0782fde5414d9/t/51bfdc65e4b00b62a84e8d0f/1371528293927/TRIBALINKSPACEMAPS_ChooseOptions_39x26.pdf), depicting more than 600 tribes — many now forgotten and lost to history. Now, the 34-year-old designs and sells maps as large as 3 by 4 feet with the names of tribes hovering over land they once occupied.
+As a teenager, Carapella says he could never get his hands on a continental U.S. map like this, depicting more than 600 tribes — many now forgotten and lost to history. Now, the 34-year-old designs and sells maps as large as 3 by 4 feet with the names of tribes hovering over land they once occupied.
 
 "I think a lot of people get blown away by, 'Wow, there were a lot of tribes, and they covered the whole country!' You know, this is Indian land," says Carapella, who calls himself a "mixed-blood Cherokee" and lives in a ranch house within the jurisdiction of the Cherokee Nation.
 
@@ -25,21 +25,17 @@ For more than a decade, he consulted history books and library archives, called 
 >
 > オクラ州ワーナーの独学で地図を作るアーロン・カラペラ氏は，ヨーロッパ人との最初の接触以前の数百のアメリカンインディアン国家の位置と元の名前をピンポイントで特定してきました。
 >
-> 10代の頃、カラペラは600以上の部族が描かれた[このようなアメリカ大陸の地図](http://static.squarespace.com/static/5075febfe4b0782fde5414d9/t/51bfdc65e4b00b62a84e8d0f/1371528293927/TRIBALINKSPACEMAPS_ChooseOptions_39x26.pdf)を手に入れることができなかったと言いますが、その多くは今では忘れ去られ、歴史から失われてしまいました。今では、34歳の彼は、かつて彼らが占領していた土地の上に部族の名前が浮かんでいる3×4フィートの大きな地図をデザインして販売しています。
+> 10代の頃、カラペラは600以上の部族が描かれたこのようなアメリカ大陸の地図を手に入れることができなかったと言いますが、その多くは今では忘れ去られ、歴史から失われてしまいました。今では、34歳の彼は、かつて彼らが占領していた土地の上に部族の名前が浮かんでいる3×4フィートの大きな地図をデザインして販売しています。
 >
 > 「多くの人は『うわー、たくさんの部族がいて、国中を覆っていたんだ！』と感心してしまうと思います。ここはインディアンの土地なんだよ。」とカラペラ氏は言います。彼は，自身を「混血チェロキー」と名乗り、チェロキー族の管轄内にある牧場に住んでいます。
 >
 > カラペラ氏は10年以上にわたり、歴史書や図書館の資料を調べ、部族のメンバーに電話をかけ、居留地を訪問して彼の[地図プロジェクト](http://tribalnationsmaps.com/)の調査の一環として、寝室の壁に鉛筆でマークされたポスターボードを貼ったのが始まりです。これまでに、彼はアメリカ大陸、カナダ、メキシコの地図をデザインしてきました。現在、アラスカの地図を制作中とのことです。
 
-
-
-**Article continues after sponsor message**
-
 What makes Carapella's maps distinctive is their display of both the original and commonly known names of Native American tribes, according to Doug Herman, senior geographer at the Smithsonian National Museum of the American Indian in Washington, D.C.
 
 "You can look at Carapella's map, and you can sort of get it immediately," Herman says. "This is Indian Country, and it's not the Indian Country that I thought it was because all these names are different."
 
-He adds that some Native American groups got stuck with names chosen arbitrarily by European settlers. They were often derogatory names other tribes used to describe their rivals. For example, "Comanche" is derived from a word in Ute meaning "anyone who wants to fight me all the time," [according to the Encyclopaedia Britannica](http://www.britannica.com/EBchecked/topic/127235/Comanche).
+He adds that some Native American groups got stuck with names chosen arbitrarily by European settlers. They were often derogatory names other tribes used to describe their rivals. For example, "Comanche" is derived from a word in Ute meaning "anyone who wants to fight me all the time," [according to the Encyclopaedia Britannica](https://www.britannica.com/topic/Comanche-people).
 
 "It's like having a map of North America where the United States is labeled 'gringos' and Mexico is labeled 'wetbacks,' " Herman says. "Naming is an exercise in power. Whether you're naming places or naming peoples, you are therefore asserting a power of sort of establishing what is reality and what is not."
 
@@ -66,4 +62,3 @@ Carapella describes himself as a former "radical youngster" who used to lead pro
 > Carapellaは自分自身を、かつてコロンブスの日の観察に反対する抗議行動をリードし、他のネイティブアメリカンの原因をサポートしていた「急進的な若者」と表現しています。彼は今、自分の地図作りをアメリカでの認識を変えるもう一つの方法として見ていると言います。
 >
 > 「これは本当の意味での抗議ではありませんが，しかしその一方で，これは違う方法で真実を伝える方法なのです。」と彼は言います。
->
