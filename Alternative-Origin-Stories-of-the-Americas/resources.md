@@ -6,7 +6,7 @@
 
 この課題の提出期限は 2020年10月16日(金曜日) 23:59 です。
 
-- <u>**課題の要件は[こちら]()**</u>
+- <u>**課題の要件は[こちら](https://loving-is-easy.github.io/Cultures/Alternative-Origin-Stories-of-the-Americas/requirement/Alternative%20Origin%20Stories%20of%20the%20Americas.html)**</u>
 
 
 
