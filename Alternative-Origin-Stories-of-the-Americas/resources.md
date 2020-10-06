@@ -17,7 +17,7 @@
 > 不適切な箇所を見つけた場合は，本ページの作成者までご連絡ください。
 
 - <u>**動画のリンクは[こちら](https://www.youtube.com/watch?v=6iQeuzP2guk)**</u>
-- <u>**文字起こしした字幕[こちら]()**</u>
+- <u>**文字起こしした字幕は[こちら](https://loving-is-easy.github.io/Cultures/Alternative-Origin-Stories-of-the-Americas/Resources%231/Caption.html)**</u>
 - <u>**日本語による概要整理は[こちら]()**</u> （※工事中）
 
 
@@ -29,7 +29,7 @@
 > 不適切な箇所を見つけた場合は，本ページの作成者までご連絡ください。
 
 - <u>**資料へのリンクは[こちら](https://www.npr.org/transcripts/4805434)**</u>
-- <u>**日本語による概要整理は[こちら]()**</u>
+- <u>**日本語による概要整理は[こちら](https://loving-is-easy.github.io/Cultures/Alternative-Origin-Stories-of-the-Americas/Resources%232/Outline.html)**</u>
 
 
 
@@ -40,7 +40,7 @@
 > 不適切な箇所を見つけた場合は，本ページの作成者までご連絡ください。
 
 - <u>**資料へのリンクは[こちら](https://www.npr.org/sections/codeswitch/2014/06/24/323665644/the-map-of-native-american-tribes-youve-never-seen-before)**</u>
-- <u>**日本語による概要整理は[こちら]()**</u>
+- <u>**日本語による概要整理は[こちら](https://loving-is-easy.github.io/Cultures/Alternative-Origin-Stories-of-the-Americas/Resources%233/Outline.html)**</u>
 
 
 
