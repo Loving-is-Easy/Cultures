@@ -11,6 +11,6 @@
 >
 > ## トピック一覧
 >
-> -  [Alternative Origin Stories of the Americas]() 
+> -  [Alternative Origin Stories of the Americas](Alternative-Origin-Stories-of-the-Americas/resources.) 
 > -  (工事中)
 
