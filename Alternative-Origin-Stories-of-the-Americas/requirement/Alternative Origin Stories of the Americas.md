@@ -2,11 +2,11 @@
 
 ### Resources:
 
-1. A traditional “American History” video from 1953. This tells the traditional form of American history that was popular up through my elementary school years in the 1980s: https://www.youtube.com/watch?v=6iQeuzP2guk
+1. A traditional “American History” video from 1953. This tells the traditional form of American history that was popular up through my elementary school years in the 1980s: [https://www.youtube.com/watch?v=6iQeuzP2guk](https://www.youtube.com/watch?v=6iQeuzP2guk)
 
-2. Here is an interview with the historian Charles Mann, who presents a very different picture of the Americas (not just the United States as it exists today, but from Canada to South America) You can read and listen: https://www.npr.org/transcripts/4805434 
+2. Here is an interview with the historian Charles Mann, who presents a very different picture of the Americas (not just the United States as it exists today, but from Canada to South America) You can read and listen: [https://www.npr.org/transcripts/4805434](https://www.npr.org/transcripts/4805434)
 
-3. Finally, here is another link to a site on native inhabitants of the Americas. This includes fascinating maps of the different and highly varied indigenous communities. Importantly, this map shows the names each tribe called themselves, rather than the ones they were “given” by European settlers. Be sure to open the maps in PDF form so you can see the vast number of native societies that existed before European invasion, which paints a very different picture compared to the traditional history presented in the YouTube video (once again, you can both listen to and read the article): https://www.npr.org/sections/codeswitch/2014/06/24/323665644/the-map-of-native-american-tribes-youve-never-seen-before
+3. Finally, here is another link to a site on native inhabitants of the Americas. This includes fascinating maps of the different and highly varied indigenous communities. Importantly, this map shows the names each tribe called themselves, rather than the ones they were “given” by European settlers. Be sure to open the maps in PDF form so you can see the vast number of native societies that existed before European invasion, which paints a very different picture compared to the traditional history presented in the YouTube video (once again, you can both listen to and read the article): [https://www.npr.org/sections/codeswitch/2014/06/24/323665644/the-map-of-native-american-tribes-youve-never-seen-before](https://www.npr.org/sections/codeswitch/2014/06/24/323665644/the-map-of-native-american-tribes-youve-never-seen-before)
 
 (It’s also important to note that although the traditional history video says there were about 1 million Native Americans living in the now-U.S. in 1492, the number for all of North America (Canada, USA, and Mexico), is now thought to have been closer to 10 million, with at least 60 million living in North and South America combined. In short, this was never an “empty land.”
 
@@ -16,11 +16,11 @@
 >
 > #### 題材リスト
 >
-> 1. これは，1953年からの伝統的な「アメリカ史」のビデオである。本資料は，私の小学校時代にあたる1980年代ごろまで一般的だったアメリカ史の伝統的な形式を説明している。https://www.youtube.com/watch?v=6iQeuzP2guk
+> 1. これは，1953年からの伝統的な「アメリカ史」のビデオである。本資料は，私の小学校時代にあたる1980年代ごろまで一般的だったアメリカ史の伝統的な形式を説明している。[https://www.youtube.com/watch?v=6iQeuzP2guk](https://www.youtube.com/watch?v=6iQeuzP2guk)
 >
 > 2. これは，歴史家チャールズ・マンとのインタビューで，南北アメリカ大陸の非常に異なる捉え方を提示している。録音とその文字起こしの両方が用意されている。https://www.npr.org/transcripts/4805434
 >
-> 3. これは，南北アメリカ大陸の先住民に関するサイトへのリンクである。本サイトには，多種多様で極めて変化に富んだ先住民共同体の非常に興味深い地図が掲載されています。重要なのは，この地図が，各部族が自称していた呼称ではなく，ヨーロッパの入植者によって「与えられた」呼称を示していることである。また，ヨーロッパの侵略の前に存在していた膨大な数の共同体を見ることができるように，PDF形式でそれらのマップを開くこと。YouTubeビデオで提示された伝統的な説明に比べる，とかなり異なる概観を提示していることがわかるだろう。録音とその文字起こしの両方が用意されている。https://www.npr.org/sections/codeswitch/2014/06/24/323665644/the-map-of-native-american-tribes-youve-never-seen-before
+> 3. これは，南北アメリカ大陸の先住民に関するサイトへのリンクである。本サイトには，多種多様で極めて変化に富んだ先住民共同体の非常に興味深い地図が掲載されています。重要なのは，この地図が，各部族が自称していた呼称ではなく，ヨーロッパの入植者によって「与えられた」呼称を示していることである。また，ヨーロッパの侵略の前に存在していた膨大な数の共同体を見ることができるように，PDF形式でそれらのマップを開くこと。YouTubeビデオで提示された伝統的な説明に比べる，とかなり異なる概観を提示していることがわかるだろう。録音とその文字起こしの両方が用意されている。[https://www.npr.org/sections/codeswitch/2014/06/24/323665644/the-map-of-native-american-tribes-youve-never-seen-before](https://www.npr.org/sections/codeswitch/2014/06/24/323665644/the-map-of-native-american-tribes-youve-never-seen-before)
 >
 > 伝統的な米国史を紹介するビデオでは，1492年時点でのネイティブアメリカンの総人口が約100万人であるとされているが，現在の北米（カナダ、アメリカ、メキシコ）全体での総人口が1000万人に近いことを鑑みて，北アメリカと南アメリカを合わせて少なくとも6000万人が住んでいたと推定されることにも注意が必要だ。要するに，ここは決して「空っぽの大地」ではなかったのである。
 
