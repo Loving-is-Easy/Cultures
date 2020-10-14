@@ -68,7 +68,7 @@ Welcome to the program.
 
 **<u>Mr. MANN:</u>** Yes. 
 
-> **<u>YDSTIE:</u>** そして変わったのは病気でしたね。
+> **<u>YDSTIE:</u>** そして変化をもたらしたのは病気でしたね。
 >
 > **<u>Mr. MANN:</u>** その通りです。
 
